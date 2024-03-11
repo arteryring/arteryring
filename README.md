@@ -1,6 +1,5 @@
  - Hey there, I’m Sidharth
- - I'm sort of a Custom ROM/Linux Kernel nerd
- - I’m currently learning Java and Python 
+ - I'm trying to learn more about compiling Android ROMs and the makefile system 
  - You can reach me on @arteryring1 by Telegram
 
 <!---
