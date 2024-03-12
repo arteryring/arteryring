@@ -1,5 +1,5 @@
 <p align="center"><strong> Hi, I’m Sidharth. <strong></p>  
-<p align="center"><strong> I'm your usual custom ROM/OSS nerd <strong></p>  
+<p align="center"><strong> I'm your usual custom ROM/OSS nerd, <strong></p>  
 <p align="center"> I'm interested in the functioning of Android (AOSP) </p>  
 <p align="center"> I'm a beginner in custom ROM building. </p> 
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=arteryring"/></a></p>
